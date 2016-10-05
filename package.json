@@ -1,0 +1,20 @@
+{
+  "name": "airportviz",
+  "version": "1.0.0",
+  "description": "Data visualization of most connected airports.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maria Slanova & Ian Segers",
+  "license": "ISC",
+  "ignore": [
+    "**/.*",
+    "node_modules"
+  ],
+  "devDependencies": {
+    "browser-sync": "^2.17.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  }
+}
