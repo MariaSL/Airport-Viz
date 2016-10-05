@@ -13,6 +13,7 @@
     "node_modules"
   ],
   "devDependencies": {
+    "bower": "^1.7.9",
     "browser-sync": "^2.17.0",
     "gulp": "^3.9.1",
     "gulp-sass": "^2.3.2"

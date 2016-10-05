@@ -1,0 +1,14 @@
+{
+  "name": "Airport Viz",
+  "description": "",
+  "main": "index.html",
+  "authors": [
+    "Marai Slanova <mslanova@gmail.com>",
+    "Ian Segers <iansegers@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "index.html",
+  "dependencies": {
+    "d3": "^4.2.6"
+  }
+}
